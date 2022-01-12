@@ -212,4 +212,13 @@ body.active2 .right p{
 		width: 90%;
 		height: 90vh;
 	}
+	button{
+		width: 70px;
+	}
+	.btn{
+		width: 400px;
+	}
+	.reset , .equal{
+		width: 125px;
+	}
 }
