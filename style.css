@@ -207,3 +207,9 @@ body.active2 .control p{
 body.active2 .right p{
 	color: hsl(52, 100%, 62%);
 }
+@media(min-width: 600px){
+	body {
+		width: 90%;
+		height: 90vh;
+	}
+}
