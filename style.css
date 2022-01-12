@@ -207,18 +207,3 @@ body.active2 .control p{
 body.active2 .right p{
 	color: hsl(52, 100%, 62%);
 }
-@media(min-width: 600px){
-	body {
-		width: 90%;
-		height: 90vh;
-	}
-	button{
-		width: 70px;
-	}
-	.btn{
-		width: 400px;
-	}
-	.reset , .equal{
-		width: 125px;
-	}
-}
